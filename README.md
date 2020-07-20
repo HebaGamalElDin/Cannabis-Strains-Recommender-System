@@ -17,16 +17,16 @@ This Project Is composed of Two main Parts ::
         3) Paste "glove.6B.50d.txt" file into the same folder as the Notebook.
         4) Run "Strain Recommender System_.ipynb" Notebook cell-by-cell.
      
-   => Medical_usage Classification Model Accuracy and F1-Score ::
+    => Medical_usage Classification Model Accuracy and F1-Score ::
    
           1) Training Accuracy :: 100%
           2) Testing Accuracy :: 93%
           3) F1-Score :: (94% for "Non-Medical" Class) and (93% for "Medical" Class)
           
     
-   => It was Challenging Working on only 400 Raws dataset.
+    => It was Challenging Working on only 400 Raws dataset.
    
-   => Issues are met & its Solutions ::
+     => Issues are met & its Solutions ::
    
         1) Class Imbalancing :: Resampling Technique Applied.
         4) Non-Linear Seperable Dataset :: 
