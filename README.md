@@ -4,7 +4,6 @@ This Project Is composed of Two main Parts ::
     1) Adding Medical_usage Column to the original Dataset found here From Kaggle :: https://www.kaggle.com/kingburrito666/cannabis-strains
     
           => Hand Labeling for 400 Rows.
-          
           => Using Description Column to Classify the Rest of "Medical_usage" Column (i.e Wheather Medical or Nonmedical Strain".
           
     2) Building a Recommender System using TFIDF, and Cosine Similarity (Linear_kernel)
@@ -25,7 +24,9 @@ This Project Is composed of Two main Parts ::
           
     
    => It was Challenging Working on only 400 Raws dataset.
+   
    => Issues are met & its Solutions ::
+   
         1) Class Imbalancing :: Resampling Technique Applied.
         4) Non-Linear Seperable Dataset :: Ignoring simple linear ML models tried (SVM) and trying Kernal SVM then RNN with "Relu" Activation Function.
         3) RNN Vanashing :: Training with RNN-GRU Model.
