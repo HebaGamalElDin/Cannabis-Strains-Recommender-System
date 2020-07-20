@@ -1,0 +1,26 @@
+=) Used packages ::
+	1)  Pandas
+	2)  Numpy
+	3)  Itertools
+	4)  Scikit-learn
+	5)  Keras
+	6)  Seaborn
+	7)  Matplotlib
+	8)  NLTK
+	9)  Scipy
+	10) Columnar
+
+
+=) Pre-trained Model Embeddings (Glove) Download from :: https://www.kaggle.com/watts2/glove6b50dtxt
+
+=) packages Installation ::
+	1) pip install pandas
+	2) pip install numpy
+	3) pip install itertools
+	4) pip install scikit-learn
+	5) pip install keras
+	6) pip install seaborn
+	7) pip install matplotlib
+	8) pip install nltk
+	9) pip install scipy
+	10) pip install columnar
