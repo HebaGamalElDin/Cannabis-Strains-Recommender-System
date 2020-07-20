@@ -1,5 +1,5 @@
 # Cannabis-Strains-Recommender-System
-This Project Is composed of Two main Parts ::
+    This Project Is composed of Two main Parts ::
 
     1) Adding Medical_usage Column to the original Dataset found here From Kaggle :: 
                https://www.kaggle.com/kingburrito666/cannabis-strains
@@ -34,5 +34,5 @@ This Project Is composed of Two main Parts ::
         3) RNN Vanashing :: Training with RNN-GRU Model.
         4) Overfitting caused by Resampling Technique :: l1_l2 Regularization Technique (Kernel, Bias) are Applied.
         
-   **All Tries to Leverage The Testing Accuracy are so Welcomed.**
+     **All Tries to Leverage The Testing Accuracy are so Welcomed.**
         
