@@ -21,7 +21,7 @@ This Project Is composed of Two main Parts ::
    
           1) Training Accuracy :: 100%
           2) Testing Accuracy :: 93%
-          3) F1-Score :: 94% for class "Non-Medical" and 93% for Class "Medical"
+          3) F1-Score :: (94% for "Non-Medical" Class) and (93% for "Medical" Class)
           
     
    => It was Challenging Working on only 400 Raws dataset.
