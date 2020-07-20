@@ -29,10 +29,11 @@ This Project Is composed of Two main Parts ::
    => Issues are met & its Solutions ::
    
         1) Class Imbalancing :: Resampling Technique Applied.
-        4) Non-Linear Seperable Dataset :: Ignoring simple linear ML models tried (SVM) and trying Kernal SVM then RNN 
-           with "Relu" Activation Function.
+        4) Non-Linear Seperable Dataset :: 
+           Ignoring simple linear ML models tried (SVM) and trying Kernal SVM then RNN with "Relu" Activation Function.
         3) RNN Vanashing :: Training with RNN-GRU Model.
-        4) Overfitting caused by Resampling Technique :: l1_l2 Regularization Technique (Kernel, Bias) are Applied.
+        4) Overfitting caused by Resampling Technique :: 
+           l1_l2 Regularization Technique (Kernel, Bias) are Applied.
         
    **All Tries to Leverage The Testing Accuracy are so Welcomed.**
         
