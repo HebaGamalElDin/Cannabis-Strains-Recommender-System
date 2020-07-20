@@ -34,5 +34,5 @@
         3) RNN Vanashing :: Training with RNN-GRU Model.
         4) Overfitting caused by Resampling Technique :: l1_l2 Regularization Technique (Kernel, Bias) are Applied.
         
-     **All Tries to Leverage The Testing Accuracy are so Welcomed.**
+   **All Tries to Leverage The Testing Accuracy are so Welcomed.**
         
