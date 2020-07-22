@@ -1,7 +1,7 @@
 # Cannabis-Strains-Recommender-System
     This Project Is composed of Two main Parts ::
 
-    1) Adding Medical_usage Column to the original Dataset found here From Kaggle :: 
+    1) Adding Medical_usage Column to the original Dataset can be reached here From Kaggle :: 
                https://www.kaggle.com/kingburrito666/cannabis-strains
     
           => Hand Labeling for 400 Rows.
